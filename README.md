@@ -22,5 +22,7 @@ library(xgboost)
 library(caret)
 library("corrplot")
 
-O completo original (~3,1 GB) pode ser baixado na página do Kaggle (https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data)
-arquivo "train.csv". O dataset de amostra (~40 MB) é fornecido junto aos arquivos do projeto.
+O dataset completo original (~3,1 GB) pode ser baixado na página do Kaggle (https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data)
+arquivo "train.csv". O dataset de amostra (~40 MB) e os outros datasets utilizados são fornecidos junto aos arquivos do projeto. 
+Descompacte o arquivo "datasets.rar" em uma pasta /datasets no diretório principal, e descompacte os arquivos "cliente_table.rar" e 
+"train_sample.rar".
